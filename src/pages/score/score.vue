@@ -67,7 +67,7 @@ export default {
 .score-container {
   width: 10rem;
   height: 10rem;
-  background-image: url("../../assets/images/成绩栏.png");
+  background-image: url("../../assets/images/score背景.png");
   background-size: 100% 100%;
   margin: 2rem auto 0;
   position: relative;
